@@ -1,1 +1,2 @@
 # odin-recipes
+The goal of this project is to use my new-found skills that I have gained from the course so far to create a *recipes site* where I can store a wide range of meal recipes to cook for breakfast, lunch, and dinner
